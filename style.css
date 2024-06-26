@@ -872,7 +872,7 @@ button {
     height: 420px;
     width: 100%;
     position: relative;
-    background-image: url(./hotdeal.png);
+    background-image: url(./images/hotdeal.png);
     background-position: center;
     display: flex;
     justify-content: center;
